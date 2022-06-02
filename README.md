@@ -6,7 +6,7 @@
 
 1. Objetivo
 2. Materiais utilizados
-3. Etapa 1: montando a estrutura do protótipo
+3. Etapa 1: estrutura do protótipo
 4. Etapa 2: configurando o PWM
 5. Etapa 3: controle com malha aberta
 6. Etapa 4: controle com malha fechada
@@ -32,7 +32,7 @@ O objetivo deste projeto era desenvolver um protótipo capaz de simular o contro
 - 1 fita crepe
 - 1 fonte 12V
 
-## Etapa 1: montando a estrutura do protótipo
+## Etapa 1: estrutura do protótipo
 
 ## Etapa 2: configurando o PWM
 
