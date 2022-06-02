@@ -6,7 +6,7 @@
 ## Conteúdo
 
 1. [Objetivo](https://github.com/nairamouras/controle-esp32/blob/main/README.md#objetivo)
-2. [Materiais utilizados]()
+2. [Materiais utilizados](https://github.com/nairamouras/controle-esp32/blob/main/README.md#materiais-utilizados)
 3. [Etapa 1: leitura de valor analógico (ADC)]()
 4. [Etapa 2: configurando o sensor ultrassônico]()
 5. [Etapa 3: controle com malha aberta]()
