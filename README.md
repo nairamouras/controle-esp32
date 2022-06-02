@@ -8,10 +8,10 @@
 1. [Objetivo](https://github.com/nairamouras/controle-esp32/blob/main/README.md#objetivo)
 2. [Materiais utilizados](https://github.com/nairamouras/controle-esp32/blob/main/README.md#materiais-utilizados)
 3. [Etapa 1: leitura de valor analógico (ADC)](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-1-leitura-de-valor-anal%C3%B3gico-adc)
-4. [Etapa 2: configurando o sensor ultrassônico]()
-5. [Etapa 3: controle com malha aberta]()
-6. [Etapa 4: controle com malha fechada]()
-7. [Referências]()
+4. [Etapa 2: configurando o sensor ultrassônico](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-2-configurando-o-sensor-ultrass%C3%B4nico)
+5. [Etapa 3: controle com malha aberta](https://github.com/nairamouras/controle-esp32/edit/main/README.md#etapa-3-controle-com-malha-aberta)
+6. [Etapa 4: controle com malha fechada](https://github.com/nairamouras/controle-esp32/edit/main/README.md#etapa-4-controle-com-malha-fechada)
+7. [Referências](https://github.com/nairamouras/controle-esp32/edit/main/README.md#refer%C3%AAncias)
 
 ## Objetivo
 
