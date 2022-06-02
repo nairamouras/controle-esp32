@@ -6,8 +6,8 @@
 
 1. Objetivo
 2. Materiais utilizados
-3. Etapa 1: estrutura do protótipo
-4. Etapa 2: configurando o PWM
+3. Etapa 1: leitura de valor analógico (ADC)
+4. Etapa 2: configurando o sensor ultrassônico
 5. Etapa 3: controle com malha aberta
 6. Etapa 4: controle com malha fechada
 7. Referências
@@ -38,7 +38,7 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 - 1 arame
 - fios de ligação
 
-## Etapa 1: leitura analógica com o ESP32 (ADC)
+## Etapa 1: leitura de valor analógico (ADC)
 
 ## Etapa 2: configurando o sensor ultrassônico
 
