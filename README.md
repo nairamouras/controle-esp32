@@ -1,16 +1,17 @@
 # controle-esp32
 
 ### Controle de nível e malha fechada utilizando ESP32
+*Apresentação em vídeo disponível [aqui]()*
 
 ## Conteúdo
 
-1. Objetivo
-2. Materiais utilizados
-3. Etapa 1: leitura de valor analógico (ADC)
-4. Etapa 2: configurando o sensor ultrassônico
-5. Etapa 3: controle com malha aberta
-6. Etapa 4: controle com malha fechada
-7. Referências
+1. [Objetivo]()
+2. [Materiais utilizados]()
+3. [Etapa 1: leitura de valor analógico (ADC)]()
+4. [Etapa 2: configurando o sensor ultrassônico]()
+5. [Etapa 3: controle com malha aberta]()
+6. [Etapa 4: controle com malha fechada]()
+7. [Referências]()
 
 ## Objetivo
 
@@ -47,3 +48,9 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 ## Etapa 4: controle com malha fechada
 
 ## Referências
+
+RANDOM NERD TUTORIALS. ***ESP32 ADC – Read Analog Values with Arduino IDE***. Dispnível em: <<https://randomnerdtutorials.com/esp32-adc-analog-read-arduino-ide/>>
+
+RANDOM NERD TUTORIALS. ***ESP32 with HC-SR04 Ultrasonic Sensor with Arduino IDE***. Disponível em: <<https://randomnerdtutorials.com/esp32-hc-sr04-ultrasonic-arduino/>>
+
+ESP32 I/O. ***ESP32 - Ultrassonic Sensor***. Disponível em: <<https://esp32io.com/tutorials/esp32-ultrasonic-sensor>>
