@@ -14,15 +14,15 @@
 
 ## Objetivo
 
-O objetivo deste projeto era desenvolver um protótipo capaz de simular o controle de nível em malha fechada utilizando o ESP32.
+O objetivo deste projeto era simular o controle de nível em malha fechada utilizando o ESP32.
 
 ## Materiais utilizados
 
 - 1 ESP32
-- 2 protoboards
+- 3 protoboards
 - 55 cm de cano de esgoto 75 mm
 - 1 funil
-- 1 cooler
+- 1 cooler 12V e 0.21A
 - 1 régua transparente 50 cm
 - 1 bolinha de isopor
 - 1 rede de coador
@@ -31,10 +31,16 @@ O objetivo deste projeto era desenvolver um protótipo capaz de simular o contro
 - 1 fita isolante
 - 1 fita crepe
 - 1 fonte 12V
+- 1 acoplador 4N35
+- 1 transistor TIP31
+- 4 parafusos
+- 4 buchas de parafuso
+- 1 arame
+- fios de ligação
 
-## Etapa 1: estrutura do protótipo
+## Etapa 1: leitura analógica com o ESP32 (ADC)
 
-## Etapa 2: configurando o PWM
+## Etapa 2: configurando o sensor ultrassônico
 
 ## Etapa 3: controle com malha aberta
 
