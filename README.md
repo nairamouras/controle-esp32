@@ -1,17 +1,16 @@
 # controle-esp32
 
 ### Controle de nível e malha fechada utilizando ESP32
-*Apresentação em vídeo disponível [aqui]()*
+*Apresentação em vídeo disponível [aqui](https://youtu.be/C1YepbcfvZM)*
 
 ## Conteúdo
 
 1. [Objetivo](https://github.com/nairamouras/controle-esp32/blob/main/README.md#objetivo)
 2. [Materiais utilizados](https://github.com/nairamouras/controle-esp32/blob/main/README.md#materiais-utilizados)
-3. [Etapa 1: leitura de valor analógico (ADC)](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-1-leitura-de-valor-anal%C3%B3gico-adc)
-4. [Etapa 2: configurando o sensor ultrassônico](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-2-configurando-o-sensor-ultrass%C3%B4nico)
-5. [Etapa 3: controle com malha aberta](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-3-controle-com-malha-aberta)
-6. [Etapa 4: controle com malha fechada](https://github.com/nairamouras/controle-esp32/blob/main/README.md#etapa-4-controle-com-malha-fechada)
-7. [Referências](https://github.com/nairamouras/controle-esp32/blob/main/README.md#refer%C3%AAncias)
+3. [Diagrama do projeto](https://github.com/nairamouras/controle-esp32/blob/main/README.md#diagrama-do-projeto)
+4. [Controle com malha aberta](https://github.com/nairamouras/controle-esp32/blob/main/README.md#controle-com-malha-aberta)
+5. [Controle com malha fechada](https://github.com/nairamouras/controle-esp32/blob/main/README.md#controle-com-malha-fechada)
+6. [Referências](https://github.com/nairamouras/controle-esp32/blob/main/README.md#refer%C3%AAncias)
 
 ## Objetivo
 
@@ -27,7 +26,7 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 - 1 régua transparente 50 cm
 - 1 bolinha de isopor
 - 1 rede de coador
-- 1 potenciômetro
+- 1 potenciômetro 10K
 - 1 sensor ultrassônico
 - 1 fita isolante
 - 1 fita crepe
@@ -37,15 +36,16 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 - 4 parafusos
 - 4 buchas de parafuso
 - 1 arame
-- fios de ligação
+- Fios de ligação
+- 1 resistor 330R
+- 1 diodo 1N4001
+- Papelão
 
-## Etapa 1: leitura de valor analógico (ADC)
+## Diagrama do projeto
 
-## Etapa 2: configurando o sensor ultrassônico
+## Controle com malha aberta
 
-## Etapa 3: controle com malha aberta
-
-## Etapa 4: controle com malha fechada
+## Controle com malha fechada
 
 ## Referências
 
