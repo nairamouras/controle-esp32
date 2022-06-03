@@ -43,7 +43,7 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 
 ## Diagrama do projeto
 
-![]()
+![](https://media.discordapp.net/attachments/948707544208125965/982131393490456646/IMG-20220602-WA0023.jpg?width=586&height=406)
 
 ## Controle com malha aberta
 
