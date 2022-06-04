@@ -47,7 +47,11 @@ O objetivo deste projeto era simular o controle de nível em malha fechada utili
 
 ## Controle com malha aberta
 
+O código da malha aberta utiliza a técnica do ***Pulse Width Modulation*** (PWM) para obter a leitura do valor analógico e possibilitar a configuração manual do potenciômetro para controlar a velocidade de rotação do cooler. Além disso, o código também faz a programação do sensor ultrassônico para o cálculo da posição da bolinha dentro do cano.
+
 ## Controle com malha fechada
+
+A princípio, o código da malha fechada não foi finalizada a tempo e por isso foi necessário o auxílio do orientador da disciplina. Dessa forma, foi inserida a definição do erro e uma fórmula de sinal de controle, onde ocorre o fechamento da malha. Ademais, esta última etapa do código foi feita com controle PI sem sintonia.
 
 ## Referências
 
