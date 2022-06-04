@@ -51,7 +51,7 @@ O código da malha aberta utiliza a técnica do ***Pulse Width Modulation*** (PW
 
 ## Controle com malha fechada
 
-A princípio, o código da malha fechada não foi finalizada a tempo e por isso foi necessário o auxílio do orientador da disciplina. Dessa forma, foi inserida a definição do erro e uma fórmula de sinal de controle, onde ocorre o fechamento da malha. Ademais, esta última etapa do código foi feita com controle PI sem sintonia.
+Nesse caso, o código da malha fechada não foi finalizado a tempo e por isso foi necessário o auxílio do orientador da disciplina. Dessa forma, foram inseridas a definição do erro e uma fórmula de sinal de controle, onde ocorre o fechamento da malha. Ademais, esta última etapa foi feita com Controle Integral (PI) sem sintonia.
 
 ## Referências
 
